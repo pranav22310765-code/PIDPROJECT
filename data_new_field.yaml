@@ -1,0 +1,12 @@
+path: datasets/new_field_data
+train: images/train
+val: images/val
+
+nc: 5
+
+names:
+  0: field
+  1: DCS
+  2: PLC
+  3: discrete instrument
+  4: electronikon
